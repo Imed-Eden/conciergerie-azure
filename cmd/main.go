@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/ThorstenHans/go-advent/pkg/app"
-	"github.com/ThorstenHans/go-advent/pkg/automate"
+	"github.com/Imed-Eden/conciergerie-azure/pkg/app"
+	"github.com/Imed-Eden/conciergerie-azure/pkg/automate"
 )
 
 func main() {
